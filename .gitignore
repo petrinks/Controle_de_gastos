@@ -20,3 +20,6 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+# Docs de entrada e saida
+/docs/*
+/out/*
